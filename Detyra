@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gjuhët programuese</title>
+    
+</head>
+<style>
+       p{
+            font-size: 25px;
+            color: brown;
+        }
+        a{
+            color: rgb(246, 242, 242);
+            font-size: 22px;
+        }
+        div{
+    background-color: red;
+    width: 150px;
+    margin: 10px;
+    padding: 90px;
+    display: inline-block;
+}
+.div1{ background-color:rgb(189, 113, 22)}
+.div2{background-color: rgb(33, 140, 255)}
+.div3{background-color: rgb(75, 51, 234)}
+.div4{background-color: rgb(225, 225, 20)}
+.div5{background-color: rgb(5, 82, 142)}
+.div6{background-color: rgb(14, 109, 205)}
+.div7{background-color: rgb(237, 112, 67)}
+.div8{background-color: rgb(230, 230, 11)}
+.div9{background-color: rgb(3, 109, 106)}
+</style>
+<body>
+    <p>Gjuhët programuese </p>
+    <div class="div1"><a href="">HTML 5</a></div>
+    <div class="div2"><a href="">CSS 3</a></div>
+    <div class="div3"><a href="">Bootstrap</a></div>
+    <div class="div4"><a href="">JavaScript</a></div>
+    <div class="div5"><a href="">React</a></div>
+    <div class="div6"><a href="">PHP</a></div>
+    <div class="div7"><a href="">Laravel</a></div>
+    <div class="div8"><a href="">Python</a></div>
+    <div class="div9"><a href="">Django</a></div>
+</body>
+</html>
